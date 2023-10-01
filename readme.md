@@ -11,3 +11,4 @@
 Файлы, которые нужны только локально и не имеют смысла вне конкретной машины.
 Конфигурации cli (командной строки).
 Additional text to have this file modified.
+Some more text that I'm typing via IDE Pycharm.
