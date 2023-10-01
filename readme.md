@@ -12,3 +12,4 @@
 Конфигурации cli (командной строки).
 Additional text to have this file modified.
 Some more text that I'm typing via IDE Pycharm.
+And even more text for further commits via IDE.
