@@ -58,14 +58,14 @@ Hey, Netology
 - Подключитесь во второй контейнер и отобразите листинг и содержание файлов в ```/data``` контейнера.
 
 ## Вывод:
-# root@192a0df899a7:/# cd data
-# root@192a0df899a7:/data# ls
-# random_text_on_host  some_file
-# root@192a0df899a7:/data# cat random_text_on_host 
-# more random text for netology on host machine
-# root@192a0df899a7:/data# cat some_file 
-# random text for netology homework
-# root@192a0df899a7:/data# 
+### root@192a0df899a7:/# cd data
+### root@192a0df899a7:/data# ls
+### random_text_on_host  some_file
+### root@192a0df899a7:/data# cat random_text_on_host 
+### more random text for netology on host machine
+### root@192a0df899a7:/data# cat some_file 
+### random text for netology homework
+### root@192a0df899a7:/data# 
 
 ## Задача 4 (*)
 
